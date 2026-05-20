@@ -1,0 +1,1 @@
+def login(username, password):\n    pass
